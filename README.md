@@ -36,3 +36,7 @@ Fork本项目，在你的仓库下点击Settings，增加`SCHOOL_NAME`、`ACCOUN
 
 ## Credits
 * [Finch/FuckDailyCP](https://gitee.com/Finch1/FuckDailyCP)
+
+## guojerry test
+这只是一个2020年9月5日修改的一个测试日志
+本仓库forked from LemoFire/DailyCP
